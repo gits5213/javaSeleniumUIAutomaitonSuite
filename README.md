@@ -30,4 +30,5 @@
 - Github > Settings > Action Generel > Workflow permissions > Select 
     Read and Write Permissionm 
 - Create Github page with Jeklin
+- .yml > deployment section > instead of "env" use "with" 
 ```
