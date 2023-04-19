@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee891cd0-974c-4737-8adc-b0071522f6a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/17031f08-ffb2-4a97-a651-fa522708f53e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/188dcee3-a2f7-43ab-b297-aff020d37a36-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4b0ba672-9bb4-458b-8250-a1801e5f6bfa-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/59c43c65-339c-4be2-af5e-836a5581dc2c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7368aa0b-8bef-4d99-b1b1-4eebba6728a3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7e212660-7328-4295-8550-30f7d2dc4a20-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b1e0a143-209b-44be-be4c-afaeb0fbbc91-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b5ae3d4e-ac09-4bb2-98e9-72e73b264a6c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b5cb7b11-b0cd-46c4-806e-c4d2769bd8f1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c531d3ed-3e0f-4540-aeb1-c7b3b60eb352-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c5684b31-c449-45a2-a014-fccd912e3938-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d188298e-47ef-43c5-b431-d6534dba68ce-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d7b67c72-99bf-4ae3-815f-17f4e5c988e1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f37cc544-b516-4e14-8a46-43fe47ee4748-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gits/herokuapp/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gits/herokuapp/tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gits/herokuapp/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gits/herokuapp/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

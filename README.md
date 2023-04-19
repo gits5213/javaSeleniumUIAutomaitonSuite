@@ -23,3 +23,11 @@
 - allure serve "allure-results path"
 - Example: allure serve allure-results
 ```
+
+## Set up Action 
+```
+- Create Java Maven build.yml file
+- Github > Settings > Action Generel > Workflow permissions > Select 
+    Read and Write Permissionm 
+- Create Github page with Jeklin
+```
