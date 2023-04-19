@@ -28,11 +28,11 @@ public class BaseTest {
 
     @BeforeClass
     public void beforeClass(){
-        driver = new ChromeDriver(); // for debugging purpose
+        //driver = new ChromeDriver(); // for debugging purpose
 
-//        ChromeOptions options = new ChromeOptions();
-//        options.addArguments("--headless=new");
-//        WebDriver driver = new ChromeDriver(options);
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--headless=new");
+        driver = new ChromeDriver(options);
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
