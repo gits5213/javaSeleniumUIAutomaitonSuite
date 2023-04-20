@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="/Users/mdzaman/Downloads/Business/Bangladesh/students2023/sheba">
+    <test name="UIAPIRegressionSuite">
         <classes>
-            <class name="com.gits.herokuapp.tests.InvalidPassword"></class>
-            <class name="com.gits.herokuapp.tests.InvalidUsername"></class>
-            <class name="com.gits.herokuapp.tests.InvalidUsernamePassword"></class>
-            <class name="com.gits.herokuapp.tests.ValidUsernamePassword"></class>
+            <class name="com.gits.herokuapp.tests.InvalidPassword">
+                <methods>
+                    <include name="invalidPassword" />
+                </methods>
+            </class>
+            <class name="com.gits.herokuapp.tests.InvalidUsername">
+                <methods>
+                    <exclude name="" />
+                </methods>
+            </class>
+            <class name="com.gits.herokuapp.tests.InvalidUsernamePassword">
+                <methods>
+                    <exclude name="" />
+                </methods>
+            </class>
+            <class name="com.gits.herokuapp.tests.ValidUsernamePassword">
+                <methods>
+                    <exclude name="" />
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
