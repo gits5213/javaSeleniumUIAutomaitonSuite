@@ -1,4 +1,4 @@
-name: allure-cypress-report
+name: maven-build-allure-report
 
 on: [ push ]
 
