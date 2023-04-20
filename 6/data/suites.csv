@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 20 12:52:03 GMT 2023","Thu Apr 20 12:52:04 GMT 2023","1048","All Test Suite","UIAPIRegressionSuite","com.gits.herokuapp.tests.InvalidPassword","com.gits.herokuapp.tests.InvalidPassword","invalidPassword","invalidPassword","Invalid Password"
